@@ -1,7 +1,7 @@
 # YoloV8_ComputerVision_Aiming_RainbowSix
 
 ### Introduction
-
+See this Link for final result! :https://www.youtube.com/shorts/lpwBsj0j_OY　
 #### Purpose of the Project
 The intersection of gaming and artificial intelligence presents a rich ground for innovation and exploration. This project aims to leverage the power of YOLO v8, an advanced deep learning model, for a unique application in the world of gaming – specifically, in Rainbow Six Siege. The core idea is to train the YOLO v8 model to identify and aim at enemy heads using computer vision techniques. This endeavor is not only a technical challenge but also serves educational and research purposes in the field of computer vision. Additionally, it offers an intriguing glimpse into the capabilities of AI in gaming scenarios, showcasing the potential for AI to interact with games in real-time without hacking or altering the game's memory or mechanics.
 
