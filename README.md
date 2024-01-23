@@ -1,7 +1,7 @@
 # YoloV8_ComputerVision_Aiming_RainbowSix
 
 ### Introduction
-See this Link for final result! :https://www.youtube.com/shorts/lpwBsj0j_OY　
+See this Link for final result! :[https://www.youtube.com/shorts/lpwBsj0j_OY　](https://youtube.com/shorts/lpwBsj0j_OY?si=xgmBO4OIdy3xXzdP)
 #### Purpose of the Project
 The intersection of gaming and artificial intelligence presents a rich ground for innovation and exploration. This project aims to leverage the power of YOLO v8, an advanced deep learning model, for a unique application in the world of gaming – specifically, in Rainbow Six Siege. The core idea is to train the YOLO v8 model to identify and aim at enemy heads using computer vision techniques. This endeavor is not only a technical challenge but also serves educational and research purposes in the field of computer vision. Additionally, it offers an intriguing glimpse into the capabilities of AI in gaming scenarios, showcasing the potential for AI to interact with games in real-time without hacking or altering the game's memory or mechanics.
 
@@ -75,7 +75,7 @@ The culmination of this project is best showcased through a video demonstration 
 #### Video Demonstration
 
 
-See this Link:https://www.youtube.com/shorts/lpwBsj0j_OY　
+See this Link:[https://www.youtube.com/shorts/lpwBsj0j_OY　](https://youtube.com/shorts/lpwBsj0j_OY?si=xgmBO4OIdy3xXzdP)
 
 1. **Demonstration of Accuracy and Speed:** The video illustrates the model's ability to quickly and accurately detect enemy heads. This is crucial for evaluating the real-time effectiveness of the bot in a gaming scenario.
 2. **Showcasing Bot Functionality:** Viewers can observe how the bot interprets the game's visuals, processes them, and accurately adjusts the aim towards the detected enemy. It provides a clear understanding of how the bot operates in live game situations.
